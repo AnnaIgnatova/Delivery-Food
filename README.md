@@ -9,4 +9,4 @@
 - JavaScript 
 - WOW.js
 
-### deploy: https://annaignatova.github.io/needForJS/
+### deploy: https://annaignatova.github.io/Delivery-Food/
